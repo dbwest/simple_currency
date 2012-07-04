@@ -4,7 +4,7 @@ require "simple_currency/version"
 
 Gem::Specification.new do |s|
   s.name = "simple_currency"
-  s.version = SimpleCurrency::VERSION
+  s.version = "1.3.2"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Oriol Gual", "Josep M. Bach", "Josep Jaume Rey"]
   s.email       = ["info@codegram.com"]
